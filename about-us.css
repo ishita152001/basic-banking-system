@@ -1,0 +1,120 @@
+.top-container {
+  background-color: #314e52;
+  width: 100%;
+  height: 50px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 5px;
+  text-align: left;
+}
+
+h2 {
+  color: #e7e6e1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.active {
+  font-size: 25px;
+}
+
+.active:hover {
+  background-color: #314e52;
+}
+
+.first-part {
+  background-color: #314e52;
+  width: 99.3%;
+  height: 300px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  text-align: center;
+}
+
+h1 {
+  color: #e7e6e1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.second-part {
+  position: absolute;
+  display: block;
+  text-decoration: none;
+  background-color: #f6f6f6;
+  width: 86%;
+  height: 320px;
+  padding-left: 200px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+}
+
+.second-part-text {
+  position: absolute;
+  text-decoration: none;
+  padding-left: 231px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+  font-size: 17px;
+}
+
+.third-part {
+  position: absolute;
+  text-decoration: none;
+  padding-left: 700px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+}
+
+.third-part-text {
+  position: absolute;
+  text-decoration: none;
+  padding-left: 688px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+  font-size: 17px;
+}
+
+.fourth-part {
+  position: absolute;
+  text-decoration: none;
+  padding-left: 1100px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+}
+
+.fourth-part-text {
+  position: absolute;
+  text-decoration: none;
+  padding-left: 1117px;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+  font-size: 15px;
+}
+
+h2 {
+  color: #393e46;
+  font-family: 'Montserrat', sans-serif;
+}
